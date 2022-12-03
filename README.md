@@ -1,3 +1,18 @@
+# Project
+
+This fork is a simple UI enhancement to the bluetooth-remote app. Currently only builds in debug mode. Any changes to the code should be directed to the original author. 
+
+# Screenshots
+
+### Old UI
+![](Screenshot_2022-07-17-14-27-33-619_com.app.bluetoothremote.jpg)
+
+### New UI & App Icon
+![](Screenshot-20221203-033051-One-UI-Home.png)
+![](Screenshot-20221203-033102-Android-TV-Remote.png)
+
+# Original ReadMe
+
 I wanted to create a bluetooth remote application so that I can control my Android TV.
 
 After doing intensive search on the web, I found lots of sample code, but there is no ready-built app in the play store.
